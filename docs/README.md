@@ -1,3 +1,10 @@
+# Deception 2.0
+
+Cheating Detection Model
+
+Face recognition is a personal identification system that uses personal characteristics of a person to identify the person&#39;s identity. These personal characteristics, such as eyes, can further be detected for the blinks, or drowsiness. In this paper we present a study to detect cheating in real time. We develop and analyze a tool using eye detection methodology that monitor student browsing activity during online examinations. Eye detection and tracking procedure basically consists of two phases, in the first, the face is detected and facial landmark localization is applied to monitor the eyes. In the second phase OpenCV, dlib and python are used for implementation.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Prady96/Decepton/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
