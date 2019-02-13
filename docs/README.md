@@ -16,15 +16,15 @@ Problem Nowdays
 ![2.jpg](https://prady96.github.io/Decepton/Images/2.jpg)
 
 Actual problem persist at the nodes! like School/College/Centers
------
+======
 ![3.jpg](https://prady96.github.io/Decepton/Images/4.jpg)
 
 Centralised approach should be followed
------
+=====
 ![5.jpg](https://prady96.github.io/Decepton/Images/5.jpg)
 
 Individual attention is important
-----
+=====
 
 ![6.jpg](https://prady96.github.io/Decepton/Images/6.jpg)
 
@@ -32,12 +32,12 @@ Individual attention is important
 ![7.jpg](https://prady96.github.io/Decepton/Images/7.jpg)
 
 Analysis of different Movements
-----
+=====
 
 ![8.jpg](https://prady96.github.io/Decepton/Images/8.jpeg)
 
 Furthur target
------
+=====
 
 ![9.jpeg](https://prady96.github.io/Decepton/Images/9.jpeg)
 ![10.jpeg](https://prady96.github.io/Decepton/Images/10.jpeg)
