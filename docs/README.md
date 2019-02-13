@@ -47,12 +47,14 @@ Furthur target.
 Contact us.
 ==========
 
-Intrested in collaboration, for early access 
+Intrested in collaboration,  
 
+for early access
+--------
 Drop us a mail at <pradyumgupta@ieee.org>
 --------
 
-Project will be released in end of March.
+Project will be released in end of March 2019.
 ========================================
 
 
