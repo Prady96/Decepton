@@ -11,19 +11,19 @@ The methedology used behind involves the use of **facial landmark localization**
 =====
 ![1.jpeg](https://prady96.github.io/Decepton/Images/1.jpeg)
 
-Problem Nowdays
+Problem Nowdays.
 ======
 ![2.jpg](https://prady96.github.io/Decepton/Images/2.jpg)
 
-Actual problem persist at the nodes! like School/College/Centers
+Actual problem persist at the nodes! like School/College/Centers.
 ======
 ![3.jpg](https://prady96.github.io/Decepton/Images/4.jpg)
 
-Centralised approach should be followed
+Centralised approach should be followed.
 =====
 ![5.jpg](https://prady96.github.io/Decepton/Images/5.jpg)
 
-Individual attention is important
+Individual attention is important.
 =====
 
 ![6.jpg](https://prady96.github.io/Decepton/Images/6.jpg)
@@ -31,12 +31,12 @@ Individual attention is important
 
 ![7.jpg](https://prady96.github.io/Decepton/Images/7.jpg)
 
-Analysis of different Movements
+Analysis of different Movements.
 =====
 
 ![8.jpg](https://prady96.github.io/Decepton/Images/8.jpeg)
 
-Furthur target
+Furthur target.
 =====
 
 ![9.jpeg](https://prady96.github.io/Decepton/Images/9.jpeg)
@@ -44,7 +44,7 @@ Furthur target
 ![11.jpeg](https://prady96.github.io/Decepton/Images/11.jpeg)
 ![12.jpeg](https://prady96.github.io/Decepton/Images/12.jpg)
 
-Contact us
+Contact us.
 ==========
 
 Intrested in collaboration, for early access 
@@ -52,7 +52,7 @@ Intrested in collaboration, for early access
 Drop us a mail at <pradyumgupta@ieee.org>
 --------
 
-Project will be released in end of March
+Project will be released in end of March.
 ========================================
 
 
