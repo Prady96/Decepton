@@ -3,7 +3,7 @@ Our Aim?
 
 *_Detecting **Cheating in REAL TIME**_* using **Face recognition** we plan to create a system which uses personal characterstics such as face movements, eye movements to detect cheating in **online exams/Computer Based Test(CBT)**,
 
-The methedology used behind involves the use of **facial landmark localization** to monitor the various movements, Furthur the implementation is done using Open Source library
+The methedology used behind involves the use of **facial landmark localization** to monitor the various movements, Further the implementation is done using Open Source library
 
 ---
 
@@ -15,7 +15,7 @@ Problem Nowdays.
 ======
 ![2.jpg](https://prady96.github.io/Decepton/Images/2.jpg)
 
-Actual problem persist at the nodes! like School/College/Centers.
+Actual problem persist at the nodes like School/College/Centers.
 ======
 ![3.jpg](https://prady96.github.io/Decepton/Images/4.jpg)
 
