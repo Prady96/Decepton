@@ -8,11 +8,11 @@ The methedology used behind involves the use of **facial landmark localization**
 ---
 
 *Deception simply means make someone believe something that is not true!*
----
+=====
 ![1.jpeg](https://prady96.github.io/Decepton/Images/1.jpeg)
 
 Problem Nowdays
----------------
+======
 ![2.jpg](https://prady96.github.io/Decepton/Images/2.jpg)
 
 Actual problem persist at the nodes! like School/College/Centers
@@ -45,9 +45,10 @@ Furthur target
 ![12.jpeg](https://prady96.github.io/Decepton/Images/12.jpg)
 
 Contact us
-----------
+==========
 
 Intrested in collaboration, for early access 
+
 Drop us a mail at <pradyumgupta@ieee.org>
 --------
 
